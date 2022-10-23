@@ -14,6 +14,9 @@ You can play how many times you want by clicking the NEW GAME button which reset
   * HTML
   * CSS
   * JavaScript
+  
+## Demo
+[Click Here to see demo](https://benevolent-pegasus-200258.netlify.app//) 
     
 ## Acknowledgments
 
